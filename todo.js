@@ -15,3 +15,5 @@ addToDoButton.addEventListener('click', function(){
         toDoContainer.removeChild(paragraph);
     })
 })
+
+// https://www.youtube.com/watch?v=-pRg_daFjfk&ab_channel=CodeDuck
